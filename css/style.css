@@ -1,0 +1,32 @@
+*{
+  margin: 0;
+  padding: 0;
+  background-color: #75de66;
+}
+#all{
+   background-color: #1c4716;
+   padding: 20px;
+}
+#assalam{
+  color: white;
+  background: #103310;
+
+}
+.para{
+    color: #272927;
+    padding: 29px;
+
+}
+.first_para{
+	padding: 20px;
+	margin: 50px;
+	border: 5px solid #3f4a3d;
+	color: #272927;
+}
+
+.footer{
+   text-align: center;
+   background-color:  #103310;
+   margin: 10px;
+
+}
